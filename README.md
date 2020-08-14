@@ -6,7 +6,7 @@
     import requests,
     import json,
     from pprint import pprint,
-    import pandas as pd,
+    import pandas as pd.
   Lastly, load out into a database.
     If you have a password in PG Admin make sure you add a config file to connect the database.
   
