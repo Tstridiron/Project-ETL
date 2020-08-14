@@ -1,4 +1,4 @@
-# Project-ETL
+# Project-ETL - Keepers_DB
 
   For this project we combined goal keeper FIFA video game ratings with real life player statistics to have a refernece for individual player ratings. We used four datasets, GKPenalty, Players, Player Attributes, and FIFA World Cup Teams, to create our final database. GKPenalty is a dataset found on Data World. Players and Player Attributes are related dataset pulled from a FIFA dataset found on Kaggle. FIFA World Cup Teams is a dataset pulled from World Cup data from Rpid API.
   
