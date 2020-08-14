@@ -1,13 +1,13 @@
 # Project-ETL - Keepers_DB
 
   To run:
-  -Run the Schema in PG Admin
-  -Run the the notebook (Make sure you have necessary CSV files)
-    import requests
-    import json
-    from pprint import pprint
-    import pandas as pd
-  -Load out into a database
+  Run the Schema in PG Admin.
+  Next, run the the notebook. Make sure you have necessary CSV files and
+    import requests,
+    import json,
+    from pprint import pprint,
+    import pandas as pd,
+  Lastly, load out into a database.
     If you have a password in PG Admin make sure you add a config file to connect the database.
   
   For this project we combined goal keeper FIFA video game ratings with real life player statistics to have a refernece for individual player ratings. We used four datasets, GKPenalty, Players, Player Attributes, and FIFA World Cup Teams, to create our final database. GKPenalty is a dataset found on Data World. Players and Player Attributes are related dataset pulled from a FIFA dataset found on Kaggle. FIFA World Cup Teams is a dataset pulled from World Cup data from Rpid API.
